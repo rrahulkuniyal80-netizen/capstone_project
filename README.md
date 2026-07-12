@@ -188,7 +188,7 @@ Run the notebooks in sequence.
 
 ✅ Recommendation System Completed
 
-🔄 Streamlit Application (In Progress)
+✅ Streamlit Application Completed
 
 🔄 Deployment (Upcoming)
 
